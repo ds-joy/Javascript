@@ -1,4 +1,4 @@
-** There are six primitive data types in javascript
+* * There are six primitive data types in javascript
 * 1.Number  (Floting point numbers for decimals  and integers)
 * 2.Strings (Sequence of characters)
 * 3.Boolean (Logical data type. true/false)
